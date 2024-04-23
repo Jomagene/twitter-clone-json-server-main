@@ -9,158 +9,250 @@
   },
   "tweets": [
     {
-      "id": "01",
-      "tweet_avatar": "/Tweet-Profile-Photo3.png",
-      "tweet_body": {
-        "tweet_author_title": "Twitter",
-        "tweet_authors": "Twitter",
-        "tweet_image": "/image3.png",
-        "tweet_time": "Oct 24",
-        "tweet_actions": {
-          "reply": "118.k",
-          "retweet": "785.k",
-          "liked": "false",
-          "react": "30000",
-          "share": ""
+      "avatar": "/images/CNN-pic.png",
+      "content": {
+        "body": {
+          "title": {
+            "author": "CNN",
+            "verification": "",
+            "reference": "@CNN",
+            "dot": ".",
+            "date": "7m"
+          },
+          "text": "President Joe Biden touted a new agreement reached with the European Union to ease Trump-era tariffs on aluminum and steel as a \"major breakthrough\" that would serve to both strengthen the US steel industry and combat the global climate crisis."
         },
-        "tweet_text": "hello literally everyone"
+        "action": {
+          "actions": [
+            {
+              "count": "57",
+              "msg": "Like"
+            },
+            {
+              "count": "144",
+              "msg": "Reply"
+            },
+            {
+              "count": "184",
+              "msg": "Repost"
+            },
+            {
+              "count": "",
+              "msg": "Share"
+            }
+          ]
+        }
       }
     },
     {
-      "id": "02",
-      "tweet_avatar": "/Tweet-Profile-Photo3.png",
-      "tweet_body": {
-        "tweet_author_title": "Twitter",
-        "tweet_authors": "Twitter",
-        "tweet_time": "Oct 24",
-        "tweet_actions": {
-          "reply": "118.k",
-          "retweet": "785",
-          "liked": "false",
-          "react": 3000,
-          "share": ""
+      "avatar": "/images/NewYorkTimes-pic.png",
+      "content": {
+        "body": {
+          "title": {
+            "author": "The New York Times",
+            "verification": "",
+            "reference": "@nytimes",
+            "dot": ".",
+            "date": "2h"
+          },
+          "text": "Gardenin boomed during the pandemic. Six Black writers share how has helped them re-establish, and reimagine, a connection to cultivation and the land"
         },
-        "tweet_text": "hello literally everyone"
+        "action": {
+          "actions": [
+            {
+              "count": "19",
+              "msg": "Like"
+            },
+            {
+              "count": "48",
+              "msg": "Reply"
+            },
+            {
+              "count": "482",
+              "msg": "Repost"
+            },
+            {
+              "count": "",
+              "msg": "Share"
+            }
+          ]
+        }
       }
     },
     {
-      "id": "03",
-      "tweet_avatar": "/Tweet-Profile-Photo3.png",
-      "tweet_body": {
-        "tweet_author_title": "Twitter",
-        "tweet_authors": "Twitter",
-        "tweet_time": "Oct 29",
-        "tweet_actions": {
-          "reply": "6.8K",
-          "retweet": "36.6K",
-          "liked": "false",
-          "react": 267,
-          "share": ""
+      "avatar": "/images/Tweeter-pic.png",
+      "content": {
+        "body": {
+          "title": {
+            "author": "Twitter",
+            "verification": "",
+            "reference": "@Twitter",
+            "dot": ".",
+            "date": "Oct 29"
+          },
+          "text": "BIG NEWS lol jk still Twitter"
         },
-        "tweet_text": "BIG NEWS lol jk still Twitter"
+        "action": {
+          "actions": [
+            {
+              "count": "6.8K",
+              "msg": "Like"
+            },
+            {
+              "count": "36.6K",
+              "msg": "Reply"
+            },
+            {
+              "count": "267.1K",
+              "msg": "Repost"
+            },
+            {
+              "count": "",
+              "msg": "Share"
+            }
+          ]
+        }
       }
     },
     {
-      "id": "04",
-      "tweet_avatar": "/Tweet-Profile-Photo2.png",
-      "tweet_body": {
-        "tweet_author_title": "The new york times",
-        "tweet_authors": "nytimes",
-        "tweet_image": "/image3.png",
-        "tweet_time": "2h",
-        "tweet_actions": {
-          "reply": "19",
-          "retweet": "48",
-          "liked": "false",
-          "react": "482",
-          "share": ""
+      "avatar": "/images/Tweeter-pic.png",
+      "content": {
+        "body": {
+          "title": {
+            "author": "Twitter",
+            "verification": "",
+            "reference": "@Twitter",
+            "dot": ".",
+            "date": "Oct 29"
+          },
+          "text": "Hello Litteraly everyone"
         },
-        "tweet_text": "Gardening boomed during the pandemic. Six Black writers share how it has helped them re-establish, and reimagine, a connection to cultivation and the land."
+        "action": {
+          "actions": [
+            {
+              "count": "6.8K",
+              "msg": "Like"
+            },
+            {
+              "count": "36.6K",
+              "msg": "Reply"
+            },
+            {
+              "count": "267.1K",
+              "msg": "Repost"
+            },
+            {
+              "count": "",
+              "msg": "Share"
+            }
+          ]
+        }
       }
     },
     {
-      "id": "05",
-      "tweet_avatar": "/Tweet-Profile-Photo.png",
-      "tweet_body": {
-        "tweet_author_title": "CNN",
-        "tweet_authors": "CNN",
-        "tweet_time": "7m",
-        "tweet_actions": {
-          "reply": "57",
-          "retweet": "144",
-          "liked": "false",
-          "react": "184",
-          "share": ""
+      "avatar": "/images/Tweeter-pic.png",
+      "content": {
+        "body": {
+          "title": {
+            "author": "Twitter",
+            "verification": "",
+            "reference": "@Twitter",
+            "dot": ".",
+            "date": "Oct 4"
+          },
+          "text": "hello literally everyone"
         },
-        "tweet_text": "President Joe Biden touted a new agreement reached with the European Union to ease Trump-era tariffs on aluminum and steel as a 'major breakthrough' that would serve to both strengthen the US steel industry and combat the global climate crisis."
+        "action": {
+          "actions": [
+            {
+              "count": "57K",
+              "msg": "Like"
+            },
+            {
+              "count": "14.4K",
+              "msg": "Reply"
+            },
+            {
+              "count": "184.8K",
+              "msg": "Repost"
+            },
+            {
+              "count": "",
+              "msg": "Share"
+            }
+          ]
+        }
       }
     },
     {
-      "id": "06",
-      "tweet_avatar": "/Profile-Photo.png",
-      "tweet_body": {
-        "tweet_author_title": "Bradley Ortiz",
-        "tweet_authors": "bradley_",
-        "tweet_time": "12m",
-        "tweet_actions": {
-          "reply": "0",
-          "retweet": "0",
-          "liked": "false",
-          "react": "0",
-          "share": ""
+      "id": "c1d4",
+      "avatar": "/images/Profile-Photo.png",
+      "content": {
+        "body": {
+          "title": {
+            "author": "",
+            "verification": "",
+            "reference": "@",
+            "dot": ".",
+            "date": "5m"
+          },
+          "text": "Bonjour cher ami"
         },
-        "tweet_text": "fdgdfg"
+        "action": {
+          "actions": [
+            {
+              "count": 0,
+              "msg": "Like"
+            },
+            {
+              "count": 0,
+              "msg": "Reply"
+            },
+            {
+              "count": 0,
+              "msg": "Repost"
+            },
+            {
+              "count": 0,
+              "msg": "Share"
+            }
+          ]
+        }
       }
     },
     {
-      "id": "07",
-      "tweet_avatar": "/Profile-Photo.png",
-      "tweet_body": {
-        "tweet_author_title": "Bradley Ortiz",
-        "tweet_authors": "bradley_",
-        "tweet_time": "12m",
-        "tweet_actions": {
-          "reply": "0",
-          "retweet": "0",
-          "liked": "false",
-          "react": "0",
-          "share": ""
+      "id": "5f7e",
+      "avatar": "/images/Profile-Photo.png",
+      "content": {
+        "body": {
+          "title": {
+            "author": "",
+            "verification": "",
+            "reference": "@",
+            "dot": ".",
+            "date": "5m"
+          },
+          "text": "Mais que fais-tu?"
         },
-        "tweet_text": "sfdsfsd"
-      }
-    },
-    {
-      "id": "08",
-      "tweet_avatar": "/Profile-Photo.png",
-      "tweet_body": {
-        "tweet_author_title": "Bradley Ortiz",
-        "tweet_authors": "bradley_",
-        "tweet_time": "12m",
-        "tweet_actions": {
-          "reply": "0",
-          "retweet": "0",
-          "liked": "false",
-          "react": 0,
-          "share": ""
-        },
-        "tweet_text": "gfgf"
-      }
-    },
-    {
-      "id": "09",
-      "tweet_avatar": "/Profile-Photo.png",
-      "tweet_body": {
-        "tweet_author_title": "Bradley Ortiz",
-        "tweet_authors": "bradley_",
-        "tweet_time": "12m",
-        "tweet_actions": {
-          "reply": "0",
-          "retweet": "0",
-          "liked": "false",
-          "react": 0,
-          "share": ""
-        },
-        "tweet_text": "DFFDFG"
+        "action": {
+          "actions": [
+            {
+              "count": 0,
+              "msg": "Like"
+            },
+            {
+              "count": 0,
+              "msg": "Reply"
+            },
+            {
+              "count": 0,
+              "msg": "Repost"
+            },
+            {
+              "count": 0,
+              "msg": "Share"
+            }
+          ]
+        }
       }
     }
   ]
