@@ -1,14 +1,15 @@
 {
   "currentUser": {
     "titleAuthor": "Bradley Ortiz",
-    "titleAuthor2": "bradley_",
-    "tweet_avatar": "/Profile-Photo.png",
+    "titleAuthor2": "@bradley_",
+    "tweet_avatar": "/images/Profile-Photo.png",
     "followers": "234k",
     "following": "4k",
     "date": "mars 2022"
   },
   "tweets": [
     {
+      "id": 0,
       "avatar": "/images/CNN-pic.png",
       "content": {
         "body": {
@@ -44,6 +45,7 @@
       }
     },
     {
+      "id": 1,
       "avatar": "/images/NewYorkTimes-pic.png",
       "content": {
         "body": {
@@ -79,6 +81,7 @@
       }
     },
     {
+      "id": 2,
       "avatar": "/images/Tweeter-pic.png",
       "content": {
         "body": {
@@ -114,6 +117,7 @@
       }
     },
     {
+      "id": 3,
       "avatar": "/images/Tweeter-pic.png",
       "content": {
         "body": {
@@ -149,6 +153,7 @@
       }
     },
     {
+      "id": 4,
       "avatar": "/images/Tweeter-pic.png",
       "content": {
         "body": {
